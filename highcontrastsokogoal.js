@@ -192,7 +192,6 @@ window.snake._e = function() {
             bctx.fillRect(682, 42, 42, 42);
 
             ${bDaoa}.ka.drawImage(boxCanvas, 0, 0);
-            document.body.appendChild(boxCanvas);
 
           }else`
         )
